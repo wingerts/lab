@@ -1,2 +1,6 @@
-# lab
+# Forge Changes tab verification
 Course lab examples
+Note: Changes tab UI verification.
+Forge selector Note A
+Forge selector Note B
+Forge selector Note C
