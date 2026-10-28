@@ -2,3 +2,4 @@
 Course lab examples
 Note: Changes tab UI verification.
 Forge selector Note A
+Forge selector Note B
